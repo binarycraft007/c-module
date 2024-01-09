@@ -1,0 +1,17 @@
+.{
+    .name = "c-module",
+    .version = "0.0.0",
+    .dependencies = .{
+        .add = .{
+            .url = "git+https://github.com/binarycraft007/add#dd1eae47b6f0d7e401b490cc32dbf86317cf2bd9",
+            .hash = "1220316855f1b90cb82a7c88fcf7d432450da9b2b62efdf9393a43b9b39e26856337",
+        },
+    },
+
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "LICENSE",
+    },
+}
