@@ -3,8 +3,8 @@
     .version = "0.0.0",
     .dependencies = .{
         .add = .{
-            .url = "git+https://github.com/binarycraft007/add#d686bc295ff7b114b0fd4666e44e735e24308f08",
-            .hash = "1220116d7fe7589e85bf21e7e82829be5a82f7f26d38da56097388c050422c593e3e",
+            .url = "git+https://github.com/binarycraft007/add#87db569555971ed1b8c37e40052f746e4adedb39",
+            .hash = "1220e1a95d351aaa972dfc1ba07c5ffb3fa5893632c6b907a367de67bcaf6ba068e4",
         },
     },
 
